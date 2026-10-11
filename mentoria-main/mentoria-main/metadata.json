@@ -1,0 +1,6 @@
+{
+  "name": "멘토리아 (Mentoria) - 현직자 멘토링 & 맞춤 정부지원사업",
+  "description": "네카라쿠배 현직자 1:1 실시간 멘토링과 맞춤형 정부지원사업 매칭 종합 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
